@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/star_wars/static/css/main.d181c436.css",
+    "main.js": "/star_wars/static/js/main.1f25f648.js",
+    "static/css/922.0c6f82c5.chunk.css": "/star_wars/static/css/922.0c6f82c5.chunk.css",
+    "static/js/922.f769ac65.chunk.js": "/star_wars/static/js/922.f769ac65.chunk.js",
+    "static/media/bg.jpg": "/star_wars/static/media/bg.29b25be31315dad3ce4e.jpg",
+    "static/media/falcon.jpg": "/star_wars/static/media/falcon.c1d0a8d1869b3fbdb9ab.jpg",
+    "static/media/han-solo.mp4": "/star_wars/static/media/han-solo.db435084c403f6b37d4d.mp4",
+    "static/media/dark-side.jpg": "/star_wars/static/media/dark-side.e0f8cab78e4bdd7db45d.jpg",
+    "static/media/light-side.jpg": "/star_wars/static/media/light-side.eebc52171cd4ac0278ca.jpg",
+    "static/media/not-found.jpg": "/star_wars/static/media/not-found.1062f5e41ef989b5973a.jpg",
+    "static/media/lightsaber.svg": "/star_wars/static/media/lightsaber.eb7d4cd665426117002814db79fceef4.svg",
+    "static/media/space-station.svg": "/star_wars/static/media/space-station.7a027c6ec10ba7b5d8c880df5f4e65ea.svg",
+    "static/media/droid.svg": "/star_wars/static/media/droid.e59cd9ffbca010a59c9af48a5bbbcafb.svg",
+    "static/media/favorite-fill.svg": "/star_wars/static/media/favorite-fill.d02c62f1ab8eaaa3565e4e93ee3c13f8.svg",
+    "static/media/favorite.svg": "/star_wars/static/media/favorite.566cdda1593551eb69c23dd03444c803.svg",
+    "static/media/cancel.svg": "/star_wars/static/media/cancel.00e5d25a4b7fd1eb07bef24013d98bdb.svg",
+    "static/media/bookmark.svg": "/star_wars/static/media/bookmark.f20a16df05f99f76a0cc2d7406dc554f.svg",
+    "static/media/back.svg": "/star_wars/static/media/back.6cfb5e28a66dcdd35679ba5ec3a9f00e.svg",
+    "static/media/loader-black.svg": "/star_wars/static/media/loader-black.e08f8176ebde7efea3dde63c261a73c7.svg",
+    "static/media/loader-blue.svg": "/star_wars/static/media/loader-blue.a228a21678d54c77113e99d4d1d26b3a.svg",
+    "static/media/loader-white.svg": "/star_wars/static/media/loader-white.3b2c7a4d9cb5359314b8fdb03eba5b64.svg",
+    "index.html": "/star_wars/index.html",
+    "main.d181c436.css.map": "/star_wars/static/css/main.d181c436.css.map",
+    "main.1f25f648.js.map": "/star_wars/static/js/main.1f25f648.js.map",
+    "922.0c6f82c5.chunk.css.map": "/star_wars/static/css/922.0c6f82c5.chunk.css.map",
+    "922.f769ac65.chunk.js.map": "/star_wars/static/js/922.f769ac65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d181c436.css",
+    "static/js/main.1f25f648.js"
+  ]
+}
