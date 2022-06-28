@@ -1,6 +1,7 @@
 {
   "name": "react-star-wars",
   "version": "0.1.0",
+  "homepage": "https://invincible20222.github.io/star_wars/",
   "private": true,
   "dependencies": {
     "classnames": "^2.3.1",
